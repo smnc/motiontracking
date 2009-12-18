@@ -1,9 +1,20 @@
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Zbrajanje referentnih frameova dok se ne dogodi velika promjena.
+2. Detaljnija segmentacija pomoću informacije gdje se osoba nalazi sa napravljenom početnom segmetacijom odnosno ANDanjem.
+3. Micanje djelova tjela koji strše :) pomoću horizontalne segmentacije.
+4. Detekcija da je segmentirani objekt zaista čovjek.
+5. Motion tracking odnosno implementacija šoltinog koda
+6. Dizajn strelice
 7. 
 8.
 9. 
+
+Alexxx:
+4, 
+Adi:
+6, 
+Šimun:
+
+Jan:
+
+Zekonja:
+1, 2
