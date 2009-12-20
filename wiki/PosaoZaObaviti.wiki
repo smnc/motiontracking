@@ -1,4 +1,4 @@
-1. Zbrajanje referentnih frameova dok se ne dogodi velika promjena. <br>
+~~1. Zbrajanje referentnih frameova dok se ne dogodi velika promjena.~~ <br>
 2. Detaljnija segmentacija pomoću informacije gdje se osoba nalazi sa napravljenom početnom segmetacijom odnosno ANDanjem. <br>
 3. Micanje djelova tjela koji strše :) pomoću horizontalne segmentacije. <br>
 4. Detekcija da je segmentirani objekt zaista čovjek. <br>
