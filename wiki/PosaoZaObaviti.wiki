@@ -4,7 +4,7 @@
 4. Detekcija da je segmentirani objekt zaista čovjek. <br>
 5. Motion tracking odnosno implementacija šoltinog koda. <br>
 6. Dizajn strelice. <br>
-7. Detekcija raspoznavanja da je u kadru više od jedne osobe (prijedlozi rješenja?)<br>
+7. ~~Detekcija raspoznavanja da je u kadru više od jedne osobe (prijedlozi rješenja?)~~<br>
 8.<br>
 9. <br>
 
