@@ -18,3 +18,7 @@ Jan:<br>
 <br>
 Zekonja:<br>
 ~~1~~, 2<br>
+
+
+NAPOMENE i BUGOVI:
+za detekciju granice i za ANDanje zbog "napredne" segmentacije treba predavati frame samo sa blobom objekta, ne sa svim blobovima
