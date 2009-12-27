@@ -17,7 +17,7 @@ Adi:<br>
 Jan:<br>
 <br>
 Zekonja:<br>
-~~1~~, 2<br>
+~~1~~, ~~2~~, ~~8~~<br>
 
 
 NAPOMENE i BUGOVI:
