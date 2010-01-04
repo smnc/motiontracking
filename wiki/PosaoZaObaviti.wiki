@@ -15,7 +15,7 @@ Adi:<br>
 Šimun:<br>
 3<br>
 Jan:<br>
-<br>
+5<br>
 Zekonja:<br>
 ~~1~~, ~~2~~, ~~8~~<br>
 
